@@ -1,0 +1,12 @@
+{
+	"rules": [
+		{
+			"column_name": "age",
+			"action": "remove"
+		},
+		{
+			"column_name": "restecg",
+			"action": "remove"
+		}
+	]
+}
